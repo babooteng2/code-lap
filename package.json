@@ -1,0 +1,24 @@
+{
+  "name": "code-lap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babooteng2/code-lap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babooteng2/code-lap/issues"
+  },
+  "homepage": "https://github.com/babooteng2/code-lap#readme",
+  "devDependencies": {
+    "mocha": "^8.3.1",
+    "should": "^13.2.3"
+  }
+}
